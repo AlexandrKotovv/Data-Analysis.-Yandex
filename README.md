@@ -1,2 +1,2 @@
-# Data-Analysis.-Yandex
+# Data-Analysis (Yandex)
 Проекты, выполненные на курсе Яндекс.Практикум.
